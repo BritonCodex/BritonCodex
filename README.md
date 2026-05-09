@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BritonCodex
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning [information technology] at [Dedan Kimathi University of Technology]
-- 💞️ I’m looking to collaborate on my website project
+- 👀 interested in web development
+- 🌱 I’m currently learning [Bachelor of Science in Information Technology] at [Dedan Kimathi University of Technology]
 - 📫 How to reach me [britonkiptoo1@gmail.com]
 
 <!---
