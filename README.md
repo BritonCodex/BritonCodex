@@ -19,6 +19,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Britoncodex&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Britoncodex&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+###LeetCode
+[My LeetCode Profile]
+(https://leetcode.com/u/britoncodex/)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Britoncodex&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
